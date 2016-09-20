@@ -72,3 +72,5 @@ deploy:
   repo:
     github: git@github.com:Irving23/Irving23.github.io.git,master
     coding: git@git.coding.net:Irving23/Irving23.git,master
+
+duoshuo_shortname: irving23
