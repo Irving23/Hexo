@@ -74,3 +74,7 @@ deploy:
     coding: git@git.coding.net:Irving23/Irving23.git,master
 
 disqus_shortname: irving23
+
+search:
+  path: search.xml
+  field: post
