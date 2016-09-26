@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yelee
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -74,7 +74,3 @@ deploy:
     coding: git@git.coding.net:Irving23/Irving23.git,master
 
 disqus_shortname: irving23
-
-search:
-  path: search.xml
-  field: post
