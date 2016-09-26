@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 
+title: Irving23's Notes
 subtitle:
-description:
+description: Irving23's Notes
 author: Irving23
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://liuxu.co
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: yelee
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -73,4 +73,4 @@ deploy:
     github: git@github.com:Irving23/Irving23.github.io.git,master
     coding: git@git.coding.net:Irving23/Irving23.git,master
 
-duoshuo_shortname: irving23
+disqus_shortname: irving23
